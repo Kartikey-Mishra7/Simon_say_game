@@ -13,7 +13,7 @@ Each level increases the sequence length, making the game more challenging.
 - Increasing difficulty with each level  
 - color feedback  
 - Game-over effect  
-- Simple and clean UI  
+- Simple and clean UI    
 - Fully responsive  
 - Built using HTML, CSS, JavaScript, DOMs  
 
