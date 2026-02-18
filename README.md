@@ -10,7 +10,8 @@ Each level increases the sequence length, making the game more challenging.
 
 ## 🚀 Features
 
-- Increasing difficulty with each level  
+- Increasing difficulty with each level
+- Real-time score display that updates with each completed level 
 - color feedback  
 - Game-over effect  
 - Simple and clean UI    
@@ -22,6 +23,7 @@ Each level increases the sequence length, making the game more challenging.
 - **HTML** – Page structure  
 - **CSS** – Styling and animations  
 - **JavaScript** – Game logic  
-- **DOM Manipulation** – Handling user actions and UI updates  
+- **DOM Manipulation** – Handling user actions and UI updates
+- **Render** - (Deployment)
 
 
